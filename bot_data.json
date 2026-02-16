@@ -1,0 +1,85 @@
+{
+    "vip_users": [],
+    "verification_credits": {
+        "6854851155": 2,
+        "8244188290": 1
+    },
+    "used_tokens": [
+        "76NuoFuTQrPO8ZvFaiTQCMioGfKn4tza",
+        "XXkIDhtnfDttLJXF8S2zbxASkGS6e5Uf"
+    ],
+    "user_last_verification": {
+        "6854851155": 1769337119.917832,
+        "8244188290": 1769338888.4765632
+    },
+    "pending_requests": {
+        "8244188290": {
+            "type": "like",
+            "region": "bd",
+            "uid": "2799233875",
+            "chat_id": -1003230904430,
+            "message_id": 11059,
+            "pending_message_id": null
+        },
+        "8120381389": {
+            "type": "like",
+            "region": "bd",
+            "uid": "6653099671",
+            "chat_id": -1003230904430,
+            "message_id": 11351,
+            "pending_message_id": null
+        },
+        "7659951650": {
+            "region": "vn",
+            "uid": "1868830488",
+            "type": "like",
+            "chat_id": -1003230904430,
+            "message_id": 11148,
+            "pending_message_id": 11149
+        }
+    },
+    "token_to_user": {
+        "XXkIDhtnfDttLJXF8S2zbxASkGS6e5Uf": 6854851155,
+        "76NuoFuTQrPO8ZvFaiTQCMioGfKn4tza": 8244188290,
+        "50JuyeQ7aoFaY2PmKjirJOiMw8tzKDOU": 7659951650,
+        "LtIUm1LsS0lSWTdleWFQ0mqEIdLYN1mi": 7659951650
+    },
+    "vip_expiry": {},
+    "visit_cooldowns": {
+        "8120381389": 1769359251.2660246
+    },
+    "spam_cooldowns": {
+        "8120381389": 1769523683.083315
+    },
+    "user_coins": {
+        "6854851155": 1,
+        "8244188290": 1
+    },
+    "all_users": [
+        8244188290,
+        7659951650,
+        7727616420,
+        8120381389,
+        6075885457,
+        6854851155
+    ],
+    "bot_active": true,
+    "user_daily_likes": {
+        "8244188290": {
+            "count": 0,
+            "date": "2026-01-27"
+        },
+        "8120381389": {
+            "count": 0,
+            "date": "2026-01-27"
+        },
+        "7659951650": {
+            "count": 0,
+            "date": "2026-01-27"
+        }
+    },
+    "custom_limits": {},
+    "verification_enabled": true,
+    "command_status": {},
+    "config_values": {}
+}
