@@ -25,7 +25,7 @@ class Config:
 
     # API Endpoints
     LIKE_API_URL = "https://api-v2-ecru.vercel.app/like"
-    VISIT_API_URL = "https://ajay-visit-api-10-k.vercel.app"
+    VISIT_API_URL = "https://ind-bd-1000visit.vercel.app"
     PROFILE_API_URL = "http://danger-info-alpha.vercel.app/accinfo" # Updated for UID only
     BANNER_API_URL = "https://after-banner-636.vercel.app/banner-image"
     OUTFIT_API_URL = "https://outfit-info-by-agajay.vercel.app/outfit-image"
