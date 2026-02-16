@@ -54,7 +54,7 @@ class Config:
     BUTTON1_TEXT = "𓆩𝐒𝐇𝐀𝐑𝐄𓆪"
     BUTTON1_URL = "https://t.me/Qyroxbot?startgroup=true"
     BUTTON2_TEXT = "𓆩𝐎𝐖𝐍𝐄𝐑𓆪"
-    BUTTON2_URL = "https://t.me/Chikwho"
+    BUTTON2_URL = "https://t.me/jubayer3501"
 
     # Valid regions mapping
     VALID_REGIONS = {
